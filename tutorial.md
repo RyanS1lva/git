@@ -25,4 +25,17 @@ git push -u origin main → envia o repositório para o git
 
 git push origin main → usado depois do primeiro push, não é necessário a utilização mais do “-u”
 
+git checkout -b "novo-botao" → cria uma nova branch, nesse caso uma chamada “novo-botao”
+
+git checkout >NOME DA BRANCH< → para simplesmente trocar de branch
+
+git merge >NOME DA BRANCH< → faz a junção das branch’s
+
+git clone >LINK DO REPOSITÓRIO< → para copiar um repositório
+
+git pull → puxa as atualizações de versão conforme o repositório para o arquivo local
+
+
 clear → para limpar o terminal git
+
+cd >NOME DO ARQUIVO< → para entrar no arquivo git
