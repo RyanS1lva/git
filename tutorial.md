@@ -30,5 +30,5 @@ git clone >LINK DO REPOSITÓRIO< → para copiar um repositório
 git pull → puxa as atualizações de versão conforme o repositório para o arquivo local
 clear → para limpar o terminal git
 git remote -v → para visualizar suas conexões com os repositórios
-git remote rm >URL DO REPOSITÓRIO< → para remover a conexão com o repositório
+git remote rm >NOME DA BRANCH< → para remover a conexão com o repositório
 cd >NOME DO ARQUIVO< → para entrar no arquivo git
