@@ -23,4 +23,6 @@ git remote add origin https://github.com/RyanS1lva/projeto-git.git → adiciona 
 
 git push -u origin main → envia o repositório para o git 
 
+git push origin main → usado depois do primeiro push, não é necessário a utilização mais do “-u”
+
 clear → para limpar o terminal git
